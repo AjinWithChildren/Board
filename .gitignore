@@ -214,6 +214,12 @@ Temporary Items
 *.icloud
 
 ### Maven ###
+.idea
+./.idea
+./.idea/**
+target/**
+./out
+out/**
 target/
 pom.xml.tag
 pom.xml.releaseBackup
